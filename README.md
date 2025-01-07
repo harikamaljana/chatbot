@@ -5,7 +5,7 @@ This project provides a data loader for Q&A pairs and a REST API to access the d
 ## Installation
 
 1. Clone the repository:
-bash```
+```bash
 git clone https://github.com/harikamaljana/chatbot.git
 cd chatbot
 ```
