@@ -98,19 +98,6 @@ http://localhost:8000/questions
    - Parameter: exact_question (string)
    - Response: Single Q&A pair or 404 if not found
 
-## API Documentation
-
-- Swagger UI: `http://localhost:8000/docs`
-- ReDoc: `http://localhost:8000/redoc`
-
-## Project Structure
-
-- `data_loader.py`: Loads Q&A pairs from CSV to MongoDB Atlas
-- `api.py`: Defines FastAPI app and API endpoints
-- `questions.csv`: Sample data for Q&A pairs
-- `requirements.txt`: List of dependencies
-- `.env`: Environment variables
-- `README.md`: This file
 
 ## Chat Interface
 
